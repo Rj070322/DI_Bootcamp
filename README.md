@@ -1,2 +1,2 @@
 # DI_Bootcamp
-FullStack bootcamp
+FullStack bootcamp at Developers Institute
